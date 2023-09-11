@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    height: 20vh;
+    width: 100vw;
+    background-color:lightblue;
+    text-align: center;
+    
+}
+#nav{
+
+    height: 20vh;
+    width: 100vw;
+    background-color: gray;
+    text-align: center;
+    
+}
+#section{
+    height: 20vh;
+    width: 50vw;
+    background-color: aquamarine;
+    text-align: center;
+}
+#aside{
+    height: 40vh;
+    width:50vw;
+    background-color:pink;
+    float: right;
+    text-align: center;
+}
+
+
+
+#article{
+
+    height: 20vh;
+    width: 50vw;
+    background-color:gray;
+    text-align: center;
+
+}
+
+#footer{
+    height: 20vh;
+   
+    background-color: lightgreen;
+    text-align: center;
+}
